@@ -1,0 +1,92 @@
+/* CABECERA*/
+
+.navbar{
+    background-color: #e35614;
+}
+
+.navbar-brand{
+    font-size: 1.6em;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+
+}
+
+.navbar-brand:hover{
+    color: #fff;
+}
+
+
+.nav-link{
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+
+
+.nav-link:hover{
+    color: #fff;
+    
+}
+.subrayado:hover{
+    text-decoration: underline;
+
+}
+
+.publicar{
+    font-size: 1em;
+    background-color: rgb(187, 187, 187);
+
+
+}
+.botonpublicar{
+    margin-top: 0.5em;
+    margin-left: 1.5em;
+    margin-bottom: 0.5em;
+    font-size: 0.8em;
+}
+
+
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #fbfbfb;
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+
+
+.logueado{
+    color: white;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-decoration: underline;
+}
+
+.card-subtitle div{
+    display: inline-block;
+}
+
+.card-title{
+    font-size: 1.5em;
+
+}
+.autor{
+    color: orangered;
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+.fecha{
+    margin-right: 1em;
+}
+
+.categoria{
+    margin-right: 1em;
+    font-weight: bold;
+    color: #000;
+}
+
+
